@@ -4,7 +4,7 @@ Este proyecto es un gestor de tareas cortas diseñado para facilitar la organiza
 
 ## Instalación
 
-1. Clona este repositorio: `https://github.com/Nicogg-dev/ChallengeBackv1`
+1. Clona este repositorio: `https://github.com/Nicogg-dev/ChallengeBackV1`
 2. Instala las dependencias: `npm install`
 
 ## Configuración
